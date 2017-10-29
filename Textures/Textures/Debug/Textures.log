@@ -1,0 +1,16 @@
+﻿Build started 5/1/2017 11:08:23 PM.
+     1>Project "C:\Users\MSI\Documents\Interactive_17\P4_Textures\Textures\Textures\Textures.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IC:\Users\MSI\Documents\Interactive_17\P4_Textures\Textures\include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\msi\documents\interactive_17\p4_textures\textures\textures\main.cpp(22): warning C4005: '_CRT_SECURE_NO_WARNINGS' : macro redefinition
+                 command-line arguments :  see previous definition of '_CRT_SECURE_NO_WARNINGS'
+     1>c:\users\msi\documents\interactive_17\p4_textures\textures\textures\main.cpp(207): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\msi\documents\interactive_17\p4_textures\textures\textures\main.cpp(216): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\msi\documents\interactive_17\p4_textures\textures\textures\main.cpp(225): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\msi\documents\interactive_17\p4_textures\textures\textures\main.cpp(444): error C3861: 'setPlaneShader': identifier not found
+     1>Done Building Project "C:\Users\MSI\Documents\Interactive_17\P4_Textures\Textures\Textures\Textures.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:01.99

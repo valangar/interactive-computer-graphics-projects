@@ -1,0 +1,19 @@
+﻿Build started 2/20/2017 4:01:29 PM.
+     1>Project "C:\Users\MSI\Documents\Interactive_17\P5_RenderBuffer\RenderBuffer\RenderBuffer\RenderBuffer.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IC:\Users\MSI\Documents\Interactive_17\P5_RenderBuffer\RenderBuffer\include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\users\msi\documents\interactive_17\p5_renderbuffer\renderbuffer\renderbuffer\main.cpp(22): warning C4005: '_CRT_SECURE_NO_WARNINGS' : macro redefinition
+                 command-line arguments :  see previous definition of '_CRT_SECURE_NO_WARNINGS'
+     1>c:\users\msi\documents\interactive_17\p5_renderbuffer\renderbuffer\renderbuffer\main.cpp(314): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\msi\documents\interactive_17\p5_renderbuffer\renderbuffer\renderbuffer\main.cpp(323): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\msi\documents\interactive_17\p5_renderbuffer\renderbuffer\renderbuffer\main.cpp(332): warning C4018: '<' : signed/unsigned mismatch
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\MSI\Documents\Interactive_17\P5_RenderBuffer\RenderBuffer\Debug\RenderBuffer.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\Users\MSI\Documents\Interactive_17\P5_RenderBuffer\RenderBuffer\lib freeglut.lib glew32.lib OpenGL32.lib GlU32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\MSI\Documents\Interactive_17\P5_RenderBuffer\RenderBuffer\Debug\RenderBuffer.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\MSI\Documents\Interactive_17\P5_RenderBuffer\RenderBuffer\Debug\RenderBuffer.lib" /MACHINE:X86 Debug\lodepng.obj
+         Debug\main.obj
+         RenderBuffer.vcxproj -> C:\Users\MSI\Documents\Interactive_17\P5_RenderBuffer\RenderBuffer\Debug\RenderBuffer.exe
+     1>Done Building Project "C:\Users\MSI\Documents\Interactive_17\P5_RenderBuffer\RenderBuffer\RenderBuffer\RenderBuffer.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.07
